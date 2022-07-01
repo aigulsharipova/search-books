@@ -1,9 +1,25 @@
 h1 {
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Merriweather', serif;
+  font-family: 'Qwigley', cursive;
+  font-family: 'Titan One', cursive;
   text-align: center;
+  font-size: 50px;
 }
 .input-field {
   display: flex;
 }
 #search {
   flex: 1;
+}
+.books {
+  display: flex;
+  flex-wrap: wrap;
+}
+.photo {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  padding: 10px;
 }
