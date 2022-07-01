@@ -16,6 +16,8 @@ h1 {
 .books {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
 }
 .photo {
   display: flex;
