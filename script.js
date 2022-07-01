@@ -7,5 +7,4 @@ search.addEventListener('keyup', function(event) {
   const booksType = event.target.value.toLowerCase();
 
   photo.forEach(item => {item.querySelector('p').textContent.toLowerCase().includes(nameBook) || item.querySelector('#author').textContent.toLowerCase().includes(nameAuthor) || item.querySelector('#type').textContent.toLowerCase().includes(booksType) ? (item.style.display = 'block') : (item.style.display = 'none');
-})
-})
+})})
