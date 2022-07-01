@@ -34,4 +34,5 @@ font-family: 'Oswald', sans-serif;
 p {
   font-size: 25px;
   display: flex;
+  line-height: 0.5px;
 }
