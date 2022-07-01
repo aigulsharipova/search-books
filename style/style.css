@@ -32,7 +32,8 @@ justify-content: center;
 font-family: 'Oswald', sans-serif;
 }
 p {
-  font-size: 25px;
+  font-size: 20px;
   display: flex;
-  line-height: 0.5px;
+  margin-top: 5px;
+  margin-bottom: 2px;
 }
