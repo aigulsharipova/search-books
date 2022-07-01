@@ -8,6 +8,8 @@ h1 {
 }
 #search {
   flex: 1;
+  padding: 10px;
+  font-size: 15px;
 }
 .books {
   display: flex;
@@ -18,8 +20,8 @@ h1 {
 .photo {
   display: flex;
   flex-direction: column;
-  margin: 5px;
-  padding: 10px;
+  margin: 10px;
+  padding: 20px;
 }
 a {
 text-decoration: none;
@@ -28,4 +30,8 @@ font-size: 20px;
 display: flex;
 justify-content: center;
 font-family: 'Oswald', sans-serif;
+}
+p {
+  font-size: 25px;
+  display: flex;
 }
