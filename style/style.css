@@ -4,3 +4,6 @@ h1 {
 .input-field {
   display: flex;
 }
+#search {
+  flex: 1;
+}
