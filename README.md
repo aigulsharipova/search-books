@@ -2,7 +2,7 @@
 
 The New York Times Best sellers.
 
-- ## [Recipes](https://ny-times-books.glitch.me/)
+- ## [Books](https://ny-times-books.glitch.me/)
 
 ---
 
